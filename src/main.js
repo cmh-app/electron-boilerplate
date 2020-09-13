@@ -4,7 +4,17 @@ import vuetify from './plugins/vuetify';
 
 Vue.config.productionTip = false
 
+import router from './router'
+
+import Vuex from 'vuex'
+import { storage } from './store'
+Vue.use(Vuex)
+
+const store = new Vuex.Store(storage)
+
 new Vue({
   vuetify,
+  store,
+  router,
   render: h => h(App)
 }).$mount('#app')
