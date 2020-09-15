@@ -1,6 +1,7 @@
 <template>
-    <v-container>
-    </v-container>    
+    <div class="">
+        Project Work Dairy
+    </div>    
 </template>
 
 <script>

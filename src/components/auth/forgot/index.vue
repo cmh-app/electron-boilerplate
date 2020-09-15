@@ -1,7 +1,7 @@
 <template>
-  <v-container>
+  <div id="forgotContainer">
       <Forgot/>
-  </v-container>
+  </div>
 </template>
 
 <script>

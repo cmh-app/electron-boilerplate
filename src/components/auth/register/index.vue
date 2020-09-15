@@ -1,7 +1,7 @@
 <template>
-  <v-container>
+  <div id="registerContainer">
       <Register/>
-  </v-container>
+  </div>
 </template>
 
 <script>

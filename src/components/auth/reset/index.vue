@@ -1,7 +1,7 @@
 <template>
-  <v-container>
+  <div id="resetContainer">
       <Reset/>
-  </v-container>
+  </div>
 </template>
 
 <script>

@@ -1,7 +1,11 @@
 <template>
-    <v-container>
-        Register
-    </v-container>    
+    <div class="">
+        <v-container>
+            <v-row justify="center">
+            
+            </v-row>
+        </v-container>
+    </div>    
 </template>
 
 <script>

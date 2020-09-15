@@ -1,7 +1,7 @@
 <template>
-  <v-container>
+  <div id="loginContainer">
       <Login/>
-  </v-container>
+  </div>
 </template>
 
 <script>
